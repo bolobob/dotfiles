@@ -1,0 +1,14 @@
+# This is Git's per-user configuration file.
+[core]
+# Please adapt and uncomment the following lines:
+	user = bolobob
+	excludesfile = ~/.gitignore
+[user]
+	name = bolobob
+[push]
+	default = simple
+[alias]
+	st = status
+	ci = commit
+	di = diff
+	co = checkout
