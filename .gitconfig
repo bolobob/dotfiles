@@ -12,3 +12,4 @@
 	ci = commit
 	di = diff
 	co = checkout
+	br = branch
